@@ -1,0 +1,2 @@
+C:\Users\TUF GAMING\Desktop\NET lab\lab1\obj\Release\lab1.csproj.AssemblyReference.cache
+C:\Users\TUF GAMING\Desktop\NET lab\lab1\obj\Release\lab1.csproj.CoreCompileInputs.cache
