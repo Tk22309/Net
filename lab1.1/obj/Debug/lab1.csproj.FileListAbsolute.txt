@@ -1,7 +1,0 @@
-C:\Users\TUF GAMING\Desktop\NET lab\lab1\bin\Debug\lab1.exe.config
-C:\Users\TUF GAMING\Desktop\NET lab\lab1\bin\Debug\lab1.exe
-C:\Users\TUF GAMING\Desktop\NET lab\lab1\bin\Debug\lab1.pdb
-C:\Users\TUF GAMING\Desktop\NET lab\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
-C:\Users\TUF GAMING\Desktop\NET lab\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
-C:\Users\TUF GAMING\Desktop\NET lab\lab1\obj\Debug\lab1.exe
-C:\Users\TUF GAMING\Desktop\NET lab\lab1\obj\Debug\lab1.pdb
